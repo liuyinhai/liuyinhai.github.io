@@ -1,0 +1,10 @@
+# Site settings
+title: Yinhai's Blog
+email: yinhailiu@gmail.com
+description: "千里之行，始于足下"
+baseurl: ""
+url: "http://liuyinhai.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
