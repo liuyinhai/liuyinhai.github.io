@@ -8,4 +8,3 @@ categories: tech
 ## 学习动机
 * 闲来无趣，总归学点什么。
 
-{% endhighlight %}
