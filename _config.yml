@@ -4,6 +4,10 @@ email: yinhailiu@gmail.com
 description: "千里之行，始于足下"
 baseurl: ""
 url: "http://liuyinhai.github.io"
+twitter_username: YinhaiLiu
+github_username:  liuyinhai
+
+#
 
 # Build settings
 markdown: kramdown
