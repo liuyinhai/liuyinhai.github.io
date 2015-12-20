@@ -8,7 +8,8 @@ permalink:           pretty
 title:               Yinhai's Blog
 tagline:             '千里之行，始于足下'
 description:         '千里之行，始于足下'
-url:                 'https://twitter.com/LiuYinhai'
+#url:                 'http://liuyinhai.github.com'
+url:                 http://localhost:4000
 baseurl:             ''
 gems:                [jekyll-paginate]
 paginate:            5
@@ -17,9 +18,9 @@ paginate_path:       "page:num"
 
 # About/contact
 author:
-name:              Liu Yinhai
-url:               https://twitter.com/LiuYinhai
-email:             yinhai.liu@gmail.com
+    name:              Liu Yinhai
+    email:             yinhai.liu@gmail.com
+
 twitter_username:  YinhaiLiu
 github_username:   liuyinhai
 
