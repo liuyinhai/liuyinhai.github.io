@@ -5,11 +5,11 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               Yinhai's Blog
+title:               Meteor-Galaxy Blog
 tagline:             '千里之行，始于足下'
 description:         '千里之行，始于足下'
-#url:                 'http://liuyinhai.github.com'
-url:                 http://localhost:4000
+url:                 'http://liuyinhai.github.com'
+#url:                 http://localhost:4000
 baseurl:             ''
 gems:                [jekyll-paginate]
 paginate:            5
