@@ -1,0 +1,10 @@
+# Hugo build artifacts
+.hugo_build.lock
+public/
+resources/_gen/
+
+# Editor files
+*.swp
+*.swo
+*~
+.DS_Store
